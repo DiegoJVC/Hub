@@ -1,0 +1,6 @@
+name: Hub
+version: ${project.version}
+author: CobelPvP Development Team
+main: com.cobelpvp.hub.Hub
+depend: [Engine, Atheneum]
+softdepend: [Redstone, Queue-Bukkit]
